@@ -13,7 +13,7 @@ First run `npm install`.
 
 Run `ng serve --proxy-config proxy.config.json` for a Express server. Navigate to `http://localhost:8080/api/status`. The result will be `{"status":"UP"}`.
 
-Run `ng serve ` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.x
+Run `ng serve ` for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.x
 
 ## Code scaffolding
 

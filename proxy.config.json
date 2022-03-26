@@ -1,6 +1,6 @@
 {
     "/api/*": {
-        "target": "https://maria-test-mean.herokuapp.com:8080",
+        "target": "https://maria-test-mean.herokuapp.com:8081",
         "secure": false,
         "logLevel": "debug"
     }

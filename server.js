@@ -27,7 +27,7 @@ app.use(express.static(distDir));
 // Local database URI.
 const LOCAL_DATABASE = "mongodb+srv://fax:faxfax@app.41umm.mongodb.net/app";
 // Local port.
-const LOCAL_PORT = 8080;
+const LOCAL_PORT = 8081;
 
 // Init the server
 mongodb.MongoClient.connect(process.env.MONGODB_URI || LOCAL_DATABASE,
