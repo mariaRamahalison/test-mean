@@ -16,7 +16,7 @@ exports.config = {
     browserName: 'chrome'
   },
   directConnect: true,
-  baseUrl: 'http://localhost:4200/',
+  baseUrl: 'https://maria-test-mean.herokuapp.com:4200/',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
